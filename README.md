@@ -16,8 +16,8 @@ En la [presentación](GIT-TALLER.pdf) del taller se puede encontrar los datos de
 Nombre | Correo | Emoji | Frase
 ------------ | ------------- | ------------- | -------------
 Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
-Saul Quiros Valverde | saulquiros1@hotmail.com | :zap: | - [Cualquier cosa](google.com)
-Jose Daniel Delgado | delgado.jdds@gmail.com | :zap: | - [Para que es no entiendo](github.com)
+Saul Quiros Valverde | saulquiros1@hotmail.com | :zap: | - [Cualquier cosa](https://www.google.com/)
+Jose Daniel Delgado | delgado.jdds@gmail.com | :zap: | - [Para que es no entiendo](https://github.com/)
 Jorge Gutiérrez Mata| jorgeedugutima15@gmail.com | :zap: | - [si asití](https://www.youtube.com/watch?v=9mD-ZmWuFTQ)
 
 ## Laboratorio 1
