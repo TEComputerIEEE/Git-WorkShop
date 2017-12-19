@@ -1,4 +1,4 @@
-Taller Git COMPUTER
+﻿Taller Git COMPUTER
 =============================
 ![malkam03](imagenes/malkam03.png)
 ![COMPUTER](imagenes/COMPUTER.jpg)
@@ -16,6 +16,7 @@ En la [presentación](GIT-TALLER.pdf) del taller se puede encontrar los datos de
 Nombre | Correo | Emoji | Frase
 ------------ | ------------- | ------------- | -------------
 Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
+Jorge Gutiérrez Mata |jorgeedugutima@gmail.com| :zap: | -asistí |
 
 ## Laboratorio 1
 Este será un laboratorio guiado para aprender los comandos básicos locales de git, se realizará en conjunto con los expositores.
