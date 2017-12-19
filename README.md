@@ -18,7 +18,7 @@ Nombre | Correo | Emoji | Frase
 Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
 Saul Quiros Valverde | saulquiros1@hotmail.com | :zap: | - [Cualquier cosa](https://www.google.com/)
 Jose Daniel Delgado | delgado.jdds@gmail.com | :zap: | - [Para que es no entiendo](https://github.com/)
-Jorge Gutiérrez Mata| jorgeedugutima15@gmail.com | :zap: | - [si asití](https://www.youtube.com/watch?v=9mD-ZmWuFTQ)
+Jorge Gutiérrez Mata| jorgeedugutima15@gmail.com | :zap: | - [Si asistí](https://www.youtube.com/watch?v=9mD-ZmWuFTQ)
 
 ## Laboratorio 1
 Este será un laboratorio guiado para aprender los comandos básicos locales de git, se realizará en conjunto con los expositores.
