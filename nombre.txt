@@ -1,1 +1,2 @@
-Aquí va un nombre
+Aquí va un nombre.
+El nombre es: "****"
