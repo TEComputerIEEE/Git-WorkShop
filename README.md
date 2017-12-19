@@ -1,16 +1,59 @@
-Tutorials
-=====================
-![malkam03](malkam03.png)   
-This repository aims to hold most of the data of diferent workshops that I'll give. Every workshop is in his own directory.
+Taller Git COMPUTER
+=============================
+![malkam03](imagenes/malkam03.png)
+![COMPUTER](imagenes/COMPUTER.jpg)
+![Tec](imagenes/tec.png)  
+Este es un repositorio de prueba, para practicar los conceptos aprendidos en el taller de git del Capítulo de Circuits and Systems de la rama de estudiantil de IEEE del Tecnológico de Costa Rica. 
 
 ## Getting Started
-Since every workshop has his own directory on this repo, just pick a subject and in there you'll find the getting started for that specific workshop.
+En la [presentación](GIT-TALLER.pdf) del taller se puede encontrar los datos de la presentación que usaron los expositores. Un resumen de los comandos de git se puede encontrar en la [hoja de "claves"](git-cheat-sheet.pdf) de git. Un resumen de la sintaxis de Markdown puede ser encontrado en la [hoja de "claves"](markdown-cheat-sheet.pdf) de markdown.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## Expositor
 
-## Acknowledgments 
-* Juan Estevan Navarro @[junavarro](https://github.com/junavarro) for his help on preparing the [Git Workshop](Taller_Git).
+* **Malcolm Davis** - @[malkam03](https://github.com/malkam03)  
 
-## Disclaimer 
-This repo is of my property and although there are other collaborators don't states their opinion nor act as a official communication media.
+## Personas que Asistieron al Taller
+Nombre | Correo | Emoji | Frase
+------------ | ------------- | ------------- | -------------
+Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
+
+## Laboratorio 1
+Este será un laboratorio guiado para aprender los comandos básicos locales de git, se realizará en conjunto con los expositores.
+* En este laboratorio se debe de iniciar un repositorio local en una nueva carpeta.
+* Posteriormente se debe crear, agregar y subir al repositorio local un archivo de texto con un mensaje.
+* Luego se volverá a modificar el archivo, se veran los cambios realizados desde el inicio y las diferencias con otros archivos.
+* Por último se va a agregar una dirección para el repositorio remoto.  
+La solución de este laboratorio se puede encontrar en [soluciones/solucion1.md](soluciones/solucion1.md).
+
+## Laboratorio 2
+En este laboratorio se trabajará sobre un mismo archivo para aprender a resolver conflictos.
+* Primero se deben de descargar los cambios que otros realizaron en el repositorio.
+* Posteriormente se debe modificar este archivo [README](README.md) agregando sus datos a la tabla de asistentes.
+* Luego se agregaran los cambios al repositorio y se corregiran los errores.   
+La solución de este laboratorio se puede encontrar en [soluciones/solucion2.md](soluciones/solucion2.md).
+
+
+## Laboratorio 3
+Para el último laboratorio, se trabajara en equipos de 4 personas. 
+* Una vez conformados los equipos, el administrador de proyecto de ese equipo debe de crear un branch en el cuál su equipo debe de trabajar.
+* En este branch el equipo debe de crear una carpeta con el nombre del equipo.
+* El equipo debe de agregar 3 archivos con al menos 100 palabras, dónde cada miembro del equipo aporte parte de cada archivo.
+* Se debe de crear es un archivo readme para esta carpeta utilizando al menos 5 elementos del Markdown.
+* Por último el PM debe de hacer un merge de este branch con el master.  
+Como este laboratorio es abierto, no existe una única solución para realizarlo, por esta razón no se provee una solución para el mismo.
+
+## Laboratorio Bonus
+Para este laboratorio se les removerá los permisos de escritura al repositorio remoto. Esto con la intención de aprender sobre [Forks y Pull Request](https://guides.github.com/activities/forking/).
+
+## Licencia
+Este proyecto está licenciado bajo la licencia del MIT,  - ver [LICENSE.md](LICENSE.md) para más detalles.
+
+
+## Reconocimientos 
+* Libro de git [progit](https://github.com/progit/progit2).  
+* [Github guides](https://guides.github.com/)
+* [@junavarro](https://github.com/junavarro)
+
+
+## Descargo
+Este repositorio es de mi propiedad [malkam03](https://github.com/malkam03), y aunque sea para un taller para el Capítulo de Computer del IEEE del TEC, no es un sitio de información oficial de este ente, ni tampoco expresa las opiniones del mismo.
