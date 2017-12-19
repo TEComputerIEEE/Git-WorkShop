@@ -16,7 +16,7 @@ En la [presentación](GIT-TALLER.pdf) del taller se puede encontrar los datos de
 Nombre | Correo | Emoji | Frase
 ------------ | ------------- | ------------- | -------------
 Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
-Saul Quiros Valverde | saulquiros1@hotmail.com | :zap: | - Cualquir cosa
+Saul Quiros Valverde | saulquiros1@hotmail.com | :zap: | - Cualquier cosa
 
 ## Laboratorio 1
 Este será un laboratorio guiado para aprender los comandos básicos locales de git, se realizará en conjunto con los expositores.
